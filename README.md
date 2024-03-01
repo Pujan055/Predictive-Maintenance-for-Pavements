@@ -1,2 +1,2 @@
 # Predictive-Maintenance-for-Pavements
-Develop a predictive maintenance model using machine learning algorithms to assess the condition of pavement infrastructure (e.g., roads, highways, bridges) based on data from pavement inspections, weather conditions, traffic patterns, and environmental factors.
+The goal of this project is to develop a predictive maintenance system for pavement infrastructure using machine learning techniques. The system will analyze various factors affecting pavement conditions and predict the optimal maintenance period or time for any pavement segment. By accurately predicting maintenance needs, transportation agencies and infrastructure managers can optimize maintenance schedules, reduce costs, and extend the lifespan of pavement assets.
